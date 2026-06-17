@@ -3,7 +3,7 @@ name: example
 on:
   pull_request:
     branches:
-      - master
+      - main
     paths:
       - test.txt
     types:
